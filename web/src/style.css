@@ -1,3 +1,6 @@
 .pointer {
 	cursor: pointer;
 }
+.v-btn__content{
+display: none;
+}
